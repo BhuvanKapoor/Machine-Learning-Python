@@ -34,7 +34,7 @@ This repository contains a collection of machine learning models implemented in 
 
 To get started with this repository, clone it to your local machine:
 ```
-git clone
+git clone https://github.com/BhuvanKapoor/Machine-Learning-Python.git
 ```
 Each algorithm is implemented in a separate Python file, and you can find examples and usage in the respective files.
 
