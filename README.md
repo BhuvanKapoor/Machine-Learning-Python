@@ -19,11 +19,11 @@ This repository contains a collection of machine learning models implemented in 
 ## Unsupervised Learning Models
 
 - **K-Means Clustering:** A popular algorithm for partitioning data into K clusters based on similarity.
-- **Dimensionality Reduction:** Techniques like Principal Component Analysis (PCA) for reducing the dimensionality of data while preserving important information.
-- **Feature Extraction:** Methods for extracting relevant features from raw data, such as text or images.
 
 ## Additional Techniques
 
+- **Dimensionality Reduction:** Techniques like Principal Component Analysis (PCA) for reducing the dimensionality of data while preserving important information.
+- **Feature Engineering:** Removing outliers using percentile, z-scores, standard deviation and IQR.
 - **Encoding Data:** Techniques for encoding categorical data (e.g., one-hot encoding, label encoding) for use in machine learning models.
 - **Hyperparameter Tuning:** Methods for optimizing the hyperparameters of machine learning models, such as grid search or random search.
 - **Bagging:** An ensemble learning technique that combines the predictions of multiple models to improve accuracy and robustness.
